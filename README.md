@@ -1,2 +1,4 @@
-to launch the app :
-`node bot.js`
+how to launch the bot : 
+`docker build -t posix-bot .`
+then : 
+`docker run posix-bot`
