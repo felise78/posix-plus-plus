@@ -19,7 +19,7 @@ A positive Discord bot that shares good news! A quick personal project to learn 
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone git@github.com:felise78/posix-plus-plus.git
    cd posix-plus-plus
    ```
 
@@ -42,7 +42,7 @@ A positive Discord bot that shares good news! A quick personal project to learn 
 
 2. Run the container:
    ```bash
-   docker run --env-file .env posix-bot
+   docker run posix-bot
    ```
 
 ## 🛠️ Built With
